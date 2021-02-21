@@ -1,0 +1,23 @@
+.js-not-active {
+  display: none;
+}
+
+.body {
+  background-color: rgba(128, 255, 0, 0.473);
+}
+
+.title {
+  background-color: rgba(235, 214, 20, 0.281);
+}
+
+.title,
+.body {
+  border: 1px dotted rgba(23, 23, 126, 0.473);
+  padding: 1rem;
+}
+
+.list {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
