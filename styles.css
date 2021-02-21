@@ -14,10 +14,10 @@
 .body {
   border: 1px dotted rgba(23, 23, 126, 0.473);
   padding: 1rem;
+   cursor: pointer;
 }
 
 .list {
-  cursor: pointer;
-  display: flex;
+   display: flex;
   justify-content: center;
 }
